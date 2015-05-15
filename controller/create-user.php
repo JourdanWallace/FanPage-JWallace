@@ -1,6 +1,6 @@
 <?php
     //the file being accessed
-    require_once(__DIR__ . "/../model/config.php");
+   //require_once(__DIR__ . "/../model/config.php");
     //making sure the instructions for the email, username, and password are being followed
     $email = filter_input(INPUT_POST, "email", FILTER_SANITIZE_EMAIL);
     $username = filter_input(INPUT_POST, "username", FILTER_SANITIZE_STRING);

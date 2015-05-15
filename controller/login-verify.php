@@ -1,5 +1,5 @@
 <?php
-    require_once(__DIR__ . "/../model/config.php");
+    //require_once(__DIR__ . "/../model/config.php");
     //this is the file being accessed
     function authenticateUser() {
         //the user can go through and create posts
