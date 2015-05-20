@@ -5,7 +5,7 @@
     session_start();
     session_regenerate_id(true);
     //go to wallacej's blog
-    $path = "/FanPage-JWallace/php/";
+    $path = "/FanPage-JWallace/";
     //the info needed to get into php my admin
     $host = "localhost";
     $username = "root";

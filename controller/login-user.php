@@ -13,8 +13,7 @@
             $_SESSION["authenticated"] = true;
             //the user logged in successfully 
             echo "<p>Login Successful!</p>";       
-        }       
-        else {
+        } else {
             //what's displayed if the username and password are wrong
             echo "<p>Invalid username and password</p>";
         }

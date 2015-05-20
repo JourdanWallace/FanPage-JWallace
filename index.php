@@ -19,7 +19,12 @@
   <h1>TENNIS ROCKS</h1>
   <p>Tennis Website, click the link below.</p>
   <p><a href="http://www.tennis.com/" class="btn btn-primary btn-lg" role="button">Tennis</a></p>
-  <p><a href="Serena Williams" class="btn btn-primary btn-lg" role="button">Login</a></p>
+  <p><a href="pages/SerenaWilliams.html" class="btn btn-primary btn-lg" role="button">Serena</a></p>
+  <p><a href="pages/VenusWilliams.html" class="btn btn-primary btn-lg" role="button">Venus</a></p>
+  <p><a href="pages/MariaSharapova.html" class="btn btn-primary btn-lg" role="button">Maria</a></p>
+  <p><a href="pages/RafaelNadal.html" class="btn btn-primary btn-lg" role="button">Rafael</a></p>
+  <p><a href="pages/NovakDjokovic.html" class="btn btn-primary btn-lg" role="button">Novak</a></p>
+  <p><a href="pages/RogerFederer.html" class="btn btn-primary btn-lg" role="button">Roger</a></p>
 
   </div>
         <p>About Me</p>
