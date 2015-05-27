@@ -2,3 +2,10 @@
     color: red;
     background-image: url(http://upload.wikimedia.org/wikipedia/commons/b/b7/Venus_Williams_at_the_2010_US_Open_09.jpg);
 }
+p {
+    font-size: 50px;
+}
+
+h1{
+    font-size: 380px;
+}
